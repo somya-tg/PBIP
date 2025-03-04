@@ -1,0 +1,7 @@
+createOrReplace 
+    table Calendar
+        column Date
+            dataType: dateTime
+            formatString: "yyyy-MM-dd"
+        column Year
+            dataType: int64
