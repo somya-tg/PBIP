@@ -1,11 +1,11 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
   "metadata": {
-    "type": "Report",
+    "type": "SemanticModel",
     "displayName": "Cutlass_PBI  pbip"
   },
   "config": {
     "version": "2.0",
-    "logicalId": "43f729e1-b387-4ad0-aa78-37b2191d730b"
+    "logicalId": "602b63c0-43ee-4323-9cc4-0d6ac0f7fc1a"
   }
 }
