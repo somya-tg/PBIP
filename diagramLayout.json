@@ -4,8 +4,8 @@
     {
       "ordinal": 0,
       "scrollPosition": {
-        "x": 267.22667095736841,
-        "y": 54.92992539208565
+        "x": 0,
+        "y": 26.722667095736838
       },
       "nodes": [
         {
@@ -71,13 +71,12 @@
         },
         {
           "location": {
-            "x": 1509.2946641779527,
-            "y": 435.23180195245425
+            "x": 1235.2946641779527,
+            "y": 399.23180195245425
           },
-          "nodeIndex": "New Calculation Group",
-          "nodeLineageTag": "55014ea3-8350-4289-8e7b-1f2974de930f",
+          "nodeIndex": "Calendar",
           "size": {
-            "height": 128,
+            "height": 200,
             "width": 234
           },
           "zIndex": 0
